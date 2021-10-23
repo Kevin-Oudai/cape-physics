@@ -33,7 +33,7 @@ The International System of Units (SI - Système International d'Unités) define
 From the base units we can obtain the derived units by substituting the units in any formula that relates the quantity to other base quantities and treating the units like any other algebra term. For example, we can determine the units for area by using any area formula that you know. Consider the formula for the area of a rectangle
 
 ```
-\$area of rectangle = length(m) \times width(m) = m^2\$
+$$area of rectangle = length(m) \times width(m) = m^2$$
 ```
 
 If you consider other formulas for area you will get the same result. You can try it yourself to verify it. This method of deriving units makes it easy to obtain a unit for any quantity that exists. However, there are some quantities that do not have units. Such quantities are called dimensionless quantities. An example of a dimensionless quantity is relative density.
