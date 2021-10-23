@@ -24,7 +24,7 @@ The International System of Units (SI - Système International d'Unités) define
 | time               | t                    | second         | s                |
 | temperature        | T                    | kelvin         | K                |
 | current            | I                    | ampere         | A                |
-| luminous intensity | I_v                  | candela        | cd               |
+| luminous intensity | $$I_v$$              | candela        | cd               |
 | amount of substance| n                    | mole           | mol              |
 
 ## Derived Units
