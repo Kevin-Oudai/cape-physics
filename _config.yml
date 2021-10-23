@@ -1,3 +1,4 @@
 theme: jekyll-theme-dinky
 title: Mr. Oudai CAPE Notes
 description: This site contains notes I am writing for CAPE Physics students. It is not going to be completed any time soon.
+markdown: kramdown
