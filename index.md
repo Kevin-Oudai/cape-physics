@@ -5,9 +5,9 @@ This is a work in progress as I create new notes I will add it to the site. Do n
 # Unit 1
 
 This section will contain all the notes related to unit 1 topics.
-- Mechanics
-- Oscillations & Waves
-- Thermal and Mechanical Properties of Matter
+- Module 1 - Mechanics
+- Module 2 - Oscillations & Waves
+- Module 3 - Thermal and Mechanical Properties of Matter
 
 
 ## Module 1
